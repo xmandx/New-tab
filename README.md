@@ -8,7 +8,7 @@ New tab introduces an improved user experience by integrating an animated backgr
 
 ## How to use
 
-In your browser, download the "New Tab Override" extension and enter the following URL "https://xnew.tab.netlify.com" and when you open the next tab, it will already be configured.
+In your browser, download the "New Tab Override" extension and enter the following URL "https://xnew-tab.netlify.app/" and when you open the next tab, it will already be configured.
 
 ## License
 
